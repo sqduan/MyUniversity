@@ -1,1 +1,6 @@
 # Game mechanism design
+## Construction system
+Construction system is the most basic and important system in MyUniversity, it is a grid building system[^1] which allows players to build buildings on a grid plain.
+
+# Reference
+[^1]:[Grid building system tutorial](https://www.youtube.com/watch?v=l0emsAHIBjU&list=PLcRSafycjWFepsLiAHxxi8D_5GGvu6arf&ab_channel=SunnyValleyStudio)
