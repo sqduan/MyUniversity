@@ -1,2 +1,2 @@
 # MyUniversity
-MyUniversity is a university simulation game based on unreal engine
+MyUniversity is a university simulation game based on unity engine
