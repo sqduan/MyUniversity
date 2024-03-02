@@ -1,0 +1,16 @@
+*.unitypackage
+obj/
+*.csproj
+*.sln
+ThirdParty/
+*.meta
+Logs/
+Temp/
+.vscode/
+.vsconfig
+HypertonicGames/
+polyperfect/
+Library/
+Packages/
+ProjectSettings/
+UserSettings
