@@ -15,11 +15,11 @@ What should be a proper map size? 256 * 256? 512 * 512? 1024 * 1024? 2048 * 2048
 
 - Building types
   - Teaching building
-    - Small: 30*40 (3*4)
-    - Mideum: 60*70 (6*7)
-    - Large: 80*100 (8*10) 
-    - Super: 120*150 (12*15)
-    - Extrem: 150 * 200 (15*20)
+    - Small: 30\*40 (3*4)
+    - Mideum: 60\*70 (6*7)
+    - Large: 80\*100 (8*10) 
+    - Super: 120\*150 (12*15)
+    - Extrem: 150 \* 200 (15*20)
 
 Timing
 - What should be a proper timing for one game? Let's say 20 hours --> 60 years, one hours for 3 years, that is reasonable, so there are 20min for a year, 5 min for a season, 1min for a mounth, emm, it seems to be good
@@ -28,6 +28,17 @@ Timing
 
 Game AI
 - Auto direction
+
+Class Definition
+- People class
+   position
+   mood
+   satiety
+   illness
+   personality: MBTI
+   IQ
+   energy
+
 - Student class
   - bachelor
   - graduate
